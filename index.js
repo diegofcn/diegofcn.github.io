@@ -40,7 +40,7 @@ headerLogoConatiner.addEventListener('click', () => {
 
 
 let typed = new Typed('.text-primary', {
-  strings: ["test", "I'm a math graduate", "I'm a self taught software developer", "I'm a Spezi Connoisseur"],
+  strings: ["test", "I'm a math graduate", "I'm a self taught software developer", "I'm a Data enthusiast"],
   typeSpeed: 50,
   backSpeed: 50,
   smartBackspace: true,
